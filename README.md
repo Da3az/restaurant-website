@@ -2,13 +2,12 @@
 
 ## Description
 
-A responsive gatsby app built with styled-components .
-Live demo on https://tramelmaster.gatsbyjs.io/
+A responsive react app built with styled-components .
+Live demo on https://restaurant-website-zeta.vercel.app/
 
 ## Technologies & Tools
 
 * React
-* Gatsby
 * Styled-components
 
 
@@ -18,7 +17,7 @@ Live demo on https://tramelmaster.gatsbyjs.io/
 ### Steps:
 1. Clone repo on your local machine:
 ```
-git clone git@github.com:Da3az/mern-snake-game.git
+git clone git@github.com:Da3az/restaurant-website.git
 ```
 2. Install dependencies:
 ```
@@ -26,6 +25,6 @@ $ npm install
 ```
 3. Execute the app:<br/>
 ```
-$ gatsby develop
+$ npm run start
 ```
 8. App now should be running on ```localhost:8000```

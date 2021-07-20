@@ -19,7 +19,7 @@ const Hero = () => {
   const titles = [
     'GREATEST PIZZA EVER',
     'OOOH , THAT BURGER',
-    'IS IT DESSERTS TIME?'
+    'IS IT TIME FOR SWEETS? ?'
   ]
 
   const sections = [
